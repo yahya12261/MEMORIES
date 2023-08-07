@@ -1,0 +1,9 @@
+export const CREATE = "CREATE";
+export const UPDATE = "UPDATE";
+export const DELETE = "DELETE";
+export const FETCH_ALL = "FETCH_ALL";
+export const LIKE = "LIKE";
+export const GET_PERSON = "GET_PERSON";
+export const GET_COMMENTS = "GET_COMMENTS";
+export const CLEAR_COMMENTS = "CLEAR_DATA";
+export const ADD_COMMENT = "ADD_COMMENT";
